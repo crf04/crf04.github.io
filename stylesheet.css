@@ -1,0 +1,23 @@
+p {
+    font-size: 16px;
+    color: #333;
+}
+
+.highlight {
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#main-title {
+    font-size: 24px;
+    color: #007acc;
+}
+
+a:hover {
+    color: red;
+}
+
+#main-title {
+    padding: 10px;
+    border: 2px solid black;
+}
